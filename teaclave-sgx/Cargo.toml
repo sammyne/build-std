@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "library/core",
+  "library/std",
+  "library/proc_macro"
+]

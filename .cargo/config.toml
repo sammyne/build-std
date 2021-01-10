@@ -1,0 +1,3 @@
+[build]
+#target = "custom-target.json"
+target = "x86_64-unknown-linux-sgx.json"
